@@ -37,6 +37,6 @@ I’ve trained and mentored **100,000+ people globally** across leadership, visi
 
 ## Current question I’m exploring
 
-**How do we use AI to increase human value — not just output?**
+**How do we use AI to increase human value - not just output?**
 
 That is the thread connecting most of what I’m building, testing, and sharing here.
