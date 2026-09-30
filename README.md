@@ -2,14 +2,14 @@
 
 **Publisher • Fractional CMO • PMP-Certified Project Leader • AI-Enabled Growth & Execution**
 
-I work at the intersection of **AI, authority, growth, and execution** — helping experts, founders, and organizations turn strong ideas into visible authority, practical systems, and measurable outcomes.
+I work at the intersection of **AI, authority, growth, and execution**, helping experts, founders, and organizations turn strong ideas into visible authority, practical systems, and measurable outcomes.
 
 ## What I’m focused on
 
-- **AI for marketing & GTM** — research, positioning, content, campaigns, and smarter decision-making
-- **AI for project & program management** — workflows, planning, risk, communication, and execution
-- **AI for authors & publishers** — thought leadership, book development, visibility, and launch systems
-- **Future-ready leadership** — helping experienced professionals and teams adapt, lead, and stay relevant
+- **AI for marketing & GTM:** research, positioning, content, campaigns, and smarter decision-making
+- **AI for project & program management:** workflows, planning, risk, communication, and execution
+- **AI for authors & publishers:** thought leadership, book development, visibility, and launch systems
+- **Future-ready leadership:** helping experienced professionals and teams adapt, lead, and stay relevant
 
 ## What I’m building here
 
@@ -31,12 +31,12 @@ I’ve trained and mentored **100,000+ people globally** across leadership, visi
 
 - Fractional CMO and growth strategy engagements
 - AI adoption and workflow consulting
-- Project / program leadership opportunities
-- Corporate AI + project management training
+- Project and program leadership opportunities
+- Corporate AI and project management training
 - Publishing, thought leadership, and strategic collaborations
 
 ## Current question I’m exploring
 
-**How do we use AI to increase human value - not just output?**
+**How do we use AI to increase human value, not just output?**
 
 That is the thread connecting most of what I’m building, testing, and sharing here.
