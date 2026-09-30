@@ -27,6 +27,20 @@ Current product concepts include:
 
 [Explore the AI Product Lab](./product-lab/README.md)
 
+## My Work
+
+### Uplyft™
+
+A publishing and visibility ecosystem for experts, entrepreneurs, and leaders who want to turn their stories and expertise into books, authority, visibility, and new opportunities.
+
+[Explore Uplyft](https://uplyft.media/)
+
+### UpBuild Global
+
+A business consulting and capability-building company focused on project and portfolio management, future-ready workforce development, product transformation, go-to-market strategy, and sustainable growth.
+
+[Explore UpBuild Global](https://upbuildglobal.com/)
+
 ## What I’m building here
 
 This GitHub is where I’ll share practical, business-focused AI experiments and resources, including:
@@ -40,9 +54,18 @@ This GitHub is where I’ll share practical, business-focused AI experiments and
 
 ## About me
 
-I’m the founder of **Uplyft™** and **UpBuild™**, a 6-time #1 international bestselling author, publisher, speaker, and project leadership educator.
+I’m a 6-time #1 international bestselling author, publisher, speaker, fractional CMO, and PMP-certified project leader.
+
+Across Uplyft and UpBuild Global, I work with experts, founders, professionals, and organizations to build authority, strengthen execution, and adapt intelligently to what is changing.
 
 I’ve trained and mentored **100,000+ people globally** across leadership, visibility, authorship, and project management.
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/seemagiri)
+- [Personal website](https://seemagiri.com/)
+- [Uplyft](https://uplyft.media/)
+- [UpBuild Global](https://upbuildglobal.com/)
 
 ## I’m open to
 
