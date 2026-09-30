@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I’m Seema Giri 👋
 
-<!--
-**seemag148/seemag148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Publisher • Fractional CMO • PMP-Certified Project Leader • AI-Enabled Growth & Execution**
 
-Here are some ideas to get you started:
+I work at the intersection of **AI, authority, growth, and execution** — helping experts, founders, and organizations turn strong ideas into visible authority, practical systems, and measurable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m focused on
+
+- **AI for marketing & GTM** — research, positioning, content, campaigns, and smarter decision-making
+- **AI for project & program management** — workflows, planning, risk, communication, and execution
+- **AI for authors & publishers** — thought leadership, book development, visibility, and launch systems
+- **Future-ready leadership** — helping experienced professionals and teams adapt, lead, and stay relevant
+
+## What I’m building here
+
+This GitHub is where I’ll share practical, business-focused AI experiments and resources, including:
+
+- AI workflows and prompt systems
+- Project management templates and operating tools
+- Marketing and fractional CMO frameworks
+- Publishing and thought-leadership systems
+- Notes and experiments from the Bay Area AI and startup ecosystem
+
+## About me
+
+I’m the founder of **Uplyft™** and **UpBuild™**, a 6-time #1 international bestselling author, publisher, speaker, and project leadership educator.
+
+I’ve trained and mentored **100,000+ people globally** across leadership, visibility, authorship, and project management.
+
+## I’m open to
+
+- Fractional CMO and growth strategy engagements
+- AI adoption and workflow consulting
+- Project / program leadership opportunities
+- Corporate AI + project management training
+- Publishing, thought leadership, and strategic collaborations
+
+## Current question I’m exploring
+
+**How do we use AI to increase human value — not just output?**
+
+That is the thread connecting most of what I’m building, testing, and sharing here.
