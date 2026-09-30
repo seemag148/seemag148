@@ -15,7 +15,9 @@ I work at the intersection of **AI, authority, growth, and execution**, helping 
 
 I am building practical AI products around a central question:
 
-**How do we use AI to increase human value, not just output?**
+**If everyone has access to the same AI, where does competitive advantage come from next?**
+
+I am exploring how differentiation changes when intelligence, content, analysis, and execution become increasingly accessible. My working thesis is that advantage shifts toward judgment, trust, context, taste, relationships, decision quality, and the ability to turn insight into action.
 
 Current product concepts include:
 
