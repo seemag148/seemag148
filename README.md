@@ -11,14 +11,29 @@ I work at the intersection of **AI, authority, growth, and execution**, helping 
 - **AI for authors & publishers:** thought leadership, book development, visibility, and launch systems
 - **Future-ready leadership:** helping experienced professionals and teams adapt, lead, and stay relevant
 
+## AI Product Lab
+
+I am building practical AI products around a central question:
+
+**How do we use AI to increase human value, not just output?**
+
+Current product concepts include:
+
+- **Decision-to-Delivery OS:** find the decisions, alignment gaps, and risks preventing projects from moving
+- **Book-to-Business Authority Graph:** turn intellectual property into speaking, consulting, training, partnerships, and discoverability opportunities
+- **Human Advantage Map:** identify what to automate, what to augment, and where human judgment becomes more valuable
+
+[Explore the AI Product Lab](./product-lab/README.md)
+
 ## What I’m building here
 
 This GitHub is where I’ll share practical, business-focused AI experiments and resources, including:
 
-- AI workflows and prompt systems
-- Project management templates and operating tools
+- AI workflows and operating systems
+- Project and leadership intelligence tools
 - Marketing and fractional CMO frameworks
 - Publishing and thought-leadership systems
+- Product prototypes and evaluation rubrics
 - Notes and experiments from the Bay Area AI and startup ecosystem
 
 ## About me
@@ -34,9 +49,3 @@ I’ve trained and mentored **100,000+ people globally** across leadership, visi
 - Project and program leadership opportunities
 - Corporate AI and project management training
 - Publishing, thought leadership, and strategic collaborations
-
-## Current question I’m exploring
-
-**How do we use AI to increase human value, not just output?**
-
-That is the thread connecting most of what I’m building, testing, and sharing here.
